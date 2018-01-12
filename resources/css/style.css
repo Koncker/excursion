@@ -6,6 +6,11 @@ h1 {
 	text-align: center;
 }
 
+a {
+	font-size: 16px;
+	color: aquamarine;
+}
+
 p#download {
 	color: aquamarine;
 	font-size: 16px;
@@ -14,6 +19,19 @@ p#download {
 body {
 	background-color: black;
 	text-align: center;
+	color:white;
+	font-family: Verdana;
+}
+
+p#description {
+	color: gray;
+	font-size: 21px;
+}
+
+h2 {
+	font-family: Verdana;
+	font-weight: 300;
+	font-size: 42px;
 }
 
 p#copyright {
